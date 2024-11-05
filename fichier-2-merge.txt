@@ -1,3 +1,4 @@
+HEAD
 Modification 1 dans branche-merge
 
 
@@ -7,3 +8,6 @@ Modification 2 dans branche-merge
 Modification 3 dans branche-merge
 Modification 2 dans branche-merge
  7be3e26 (ajout de fichier-2-merge.txt avec modification 2)
+
+Modification 1 dans branche-merge
+ 64a9126 (ajout de fichier-2-merge.txt avec modification 1)
